@@ -39,7 +39,7 @@ Aqui algumas tecnologias e ferramentas que eu trabalho:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-##  Workstation
+##  :computer: Workstation
   ![Avell](https://img.shields.io/badge/Avell%20-C75-lightgrey)
         <br><br>
   ![Intel](https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-square&logo=intel&logoColor=white) <br>
