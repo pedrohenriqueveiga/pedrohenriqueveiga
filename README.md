@@ -3,12 +3,12 @@
 Eu sou Pedro Henrique R. C. Veiga, e sou Sócio/CTO e Desenvolvedor do IZagro.
 Trabalho com tecnologia desde 2012.
 Início de carreira trabalhei com manutenção de hardware notebook/desktop e celulares (PS: Na época isso era topzera, agora qualquer abre um celular hahaa)
-em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha.
+em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha.<br>
 Então resolvi que deveria procurar oportunidade na área fora da minha cidadezinha (Pratápolis-MG), mas para isso o pessoal cobrava muito uma "Certificação de ensino superior",
 logo me formei em Ciência da Computação(Universidade de Franca - SP - 2017), após isto estou em Franca-SP, 
-onde trabalhei como desenvolvedor de aplicativo mobile (VAH), em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).
-após isto, meu trabalho foi voltado a mobile e frontend, desenvolvia dashboard e websites com framework AngularJS( na época era o 2.0 era bem tri).
-Fui convidado a ser desenvolvedor no IZagro com o propósito de backend/mobile, desde então após alguns anos de dedicação, fui convidado a ser Sócio/CTO,
+onde trabalhei como desenvolvedor de aplicativo mobile (VAH), em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).<br>
+Após isto, meu trabalho foi voltado a mobile e frontend, desenvolvia dashboard e websites com framework AngularJS( na época era o 2.0 era bem tri).<br>
+Fui convidado a ser desenvolvedor no IZagro com o propósito de backend/mobile, desde então após alguns anos de dedicação, fui convidado a ser Sócio/CTO.<br>
 Hoje tenho orgulho de liderar uma equipe de desenvolvedores sensacional, onde os resultados são construidos com muita dedicação e trabalho coletivo.
 
 <br><br>Você pode me encontrar 
