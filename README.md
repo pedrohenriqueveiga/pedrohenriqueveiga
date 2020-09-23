@@ -2,14 +2,16 @@
 
 Eu sou Pedro Henrique R. C. Veiga, e sou Sócio/CTO e Desenvolvedor do IZagro..<br>
 Trabalho com tecnologia desde 2012..<br>
-Início de carreira trabalhei com manutenção de hardware notebook/desktop e celulares (PS: Na época isso era topzera, agora qualquer abre um celular hahaa)
+Início de carreira trabalhei com manutenção de hardware notebook/desktop e celulares (PS: Na época isso era topzera, agora qualquer um abre um celular hahaa)
 em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha.<br>
-Então resolvi que deveria procurar oportunidade na área fora da minha cidadezinha (Pratápolis-MG), mas para isso o pessoal cobrava muito uma "Certificação de ensino superior",
-logo me formei em Ciência da Computação(Universidade de Franca - SP - 2017), após isto estou em Franca-SP, 
-onde trabalhei como desenvolvedor de aplicativo mobile (VAH), em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).<br>
+Então resolvi que deveria procurar oportunidade na área fora da minha cidadezinha ([Pratápolis-MG](https://www.google.com.br/maps/place/Prat%C3%A1polis+-+MG/@-20.7472996,-46.86377,15.25z/data=!4m5!3m4!1s0x94b72452f3a1f187:0x9c312b9ad265533a!8m2!3d-20.7448079!4d-46.8600955)), mas para isso o pessoal cobrava muito uma "Certificação de ensino superior",
+logo me formei em Ciência da Computação(Universidade de Franca - SP - 2017), após isto estou em [Franca-SP](https://www.google.com.br/maps/place/Franca,+SP/@-20.5222082,-47.4355446,13z/data=!4m5!3m4!1s0x94b0a9b35dc60831:0x68b8558a69681462!8m2!3d-20.5393288!4d-47.4013437), 
+onde trabalhei como desenvolvedor de aplicativo mobile ([VAH](https://www.vahcompare.com/)), em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).<br>
 Após isto, meu trabalho foi voltado a mobile e frontend, desenvolvia dashboard e websites com framework AngularJS( na época era o 2.0 era bem tri).<br>
 Fui convidado a ser desenvolvedor no IZagro com o propósito de backend/mobile, desde então após alguns anos de dedicação, fui convidado a ser Sócio/CTO.<br>
 Hoje tenho orgulho de liderar uma equipe de desenvolvedores sensacional, onde os resultados são construidos com muita dedicação e trabalho coletivo.
+
+Fico aberto para trocar idéia e novas experiências e também discutir arquiteturas ! =D
 
 <br><br>Você pode me encontrar 
 [![Linkedin: Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueveiga/)](https://www.linkedin.com/in/pedrohenriqueveiga/)
@@ -18,9 +20,8 @@ Hoje tenho orgulho de liderar uma equipe de desenvolvedores sensacional, onde os
 [![Twitter Follow](https://img.shields.io/twitter/follow/Peedritoh?style=social)](https://twitter.com/Peedritoh)
 <br> Faço parte do board de organizadores do
 ![sw](https://img.shields.io/badge/StartupWeekendFranca-green?&style=for-the-square&logo=StartupWeekendFranca&logoColor=white)
-## ⚡ Tecnologias
-
-Aqui algumas tecnologias e ferramentas que eu trabalho:
+<br><br>
+## ⚡ Aqui algumas tecnologias e ferramentas que eu trabalho:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
