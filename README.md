@@ -3,11 +3,13 @@
 Eu sou Pedro Henrique R. C. Veiga, e sou Sócio/CTO e Desenvolvedor do [IZAGRO](https://www.izagro.com.br/):heart:<br>
 Trabalho com tecnologia desde 2012..<br>
 Início de carreira trabalhei com manutenção de hardware notebook/desktop e celulares (PS: Na época isso era topzera, agora qualquer um abre um celular hahaa)
-em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha.<br>
-Então resolvi que deveria procurar oportunidade na área fora da minha cidadezinha ([Pratápolis-MG](https://www.google.com.br/maps/place/Prat%C3%A1polis+-+MG/@-20.7472996,-46.86377,15.25z/data=!4m5!3m4!1s0x94b72452f3a1f187:0x9c312b9ad265533a!8m2!3d-20.7448079!4d-46.8600955)), mas para isso o pessoal cobrava muito uma "Certificação de ensino superior",
-logo me formei em Ciência da Computação(Universidade de Franca - SP - 2017), após isto estou em [Franca-SP](https://www.google.com.br/maps/place/Franca,+SP/@-20.5222082,-47.4355446,13z/data=!4m5!3m4!1s0x94b0a9b35dc60831:0x68b8558a69681462!8m2!3d-20.5393288!4d-47.4013437), 
-onde trabalhei como desenvolvedor de aplicativo mobile ([VAH](https://www.vahcompare.com/)), em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).<br>
-Após isto, meu trabalho foi voltado a mobile e frontend, desenvolvia dashboard e websites com framework AngularJS( na época era o 2.0 era bem tri).<br>
+em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha. <br>
+
+Então resolvi que deveria procurar oportunidade na área fora da minha cidadezinha ([Pratápolis-MG](https://www.google.com.br/maps/place/Prat%C3%A1polis+-+MG/@-20.7472996,-46.86377,15.25z/data=!4m5!3m4!1s0x94b72452f3a1f187:0x9c312b9ad265533a!8m2!3d-20.7448079!4d-46.8600955)), mas para isso o pessoal cobrava muito uma "Certificação de ensino superior", logo me formei em Ciência da Computação(Universidade de Franca - SP - 2017), após isto estou em [Franca-SP](https://www.google.com.br/maps/place/Franca,+SP/@-20.5222082,-47.4355446,13z/data=!4m5!3m4!1s0x94b0a9b35dc60831:0x68b8558a69681462!8m2!3d-20.5393288!4d-47.4013437), 
+onde trabalhei como desenvolvedor de aplicativo mobile ([VAH](https://www.vahcompare.com/)), 
+em seguinda um white label do VAH segmentado a usuários internos do Banco itaú (Taxi Mannager).<br>
+
+Após isto, meu trabalho foi voltado a mobile e frontend, desenvolvia dashboard e websites com framework AngularJS.<br>
 Fui convidado a ser desenvolvedor no IZagro com o propósito de backend/mobile, desde então após alguns anos de dedicação, fui convidado a ser Sócio/CTO.<br>
 Hoje tenho orgulho de liderar uma equipe de desenvolvedores sensacional, onde os resultados são construidos com muita dedicação e trabalho coletivo.
 
