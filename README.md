@@ -60,5 +60,7 @@ Fico aberto para trocar idéia e novas experiências e também discutir arquitet
   ![SSD](https://img.shields.io/badge/SSD-1%2C5T-orange) <br>
   
   
-
+## :tada: My Github stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriqueveiga&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrohenriqueveiga&show_icons=true&theme=tokyonight" />
 
