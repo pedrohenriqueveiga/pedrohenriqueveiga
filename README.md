@@ -58,9 +58,4 @@ Fico aberto para trocar idéia e novas experiências e também discutir arquitet
   ![MEMORIA](https://img.shields.io/badge/DDR4-32GB-green) <br>
   ![RTX](https://img.shields.io/badge/nvidia-RTX2070-%2376B900.svg?&style=for-the-square&logo=nvidia&logoColor=white) <br>
   ![SSD](https://img.shields.io/badge/SSD-1%2C5T-orange) <br>
-  
-  
-## :tada: My Github stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriqueveiga&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrohenriqueveiga&show_icons=true&theme=tokyonight" />
-
+ 
