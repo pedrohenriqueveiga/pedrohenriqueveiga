@@ -1,7 +1,7 @@
 ### Hello Fucking World!! 👋![](https://komarev.com/ghpvc/?username=pedrohenriqueveiga&style=flat)
 
 Eu sou Pedro Henrique R. C. Veiga, e sou Sócio/CTO e Desenvolvedor do [IZAGRO](https://www.izagro.com.br/):heart:<br>
-Trabalho com tecnologia desde 2012..<br>
+Trabalho com tecnologia desde 2011..<br>
 Início de carreira trabalhei com manutenção de hardware notebook/desktop e celulares (PS: Na época isso era topzera, agora qualquer um abre um celular hahaa)
 em paralelo desenvolvia websites(Freelas), pra arrecadar uma graninha. <br>
 
